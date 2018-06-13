@@ -6,7 +6,7 @@ angular.module("angular", [])
             {
                 Id: 0,
                 Select: "Visually impaired",
-                Name: "Daniella",
+                Name: "Daniela",
                 Photo: "http://portaldozacarias.com.br/site/arquivos/imagens/noticias/2017/11/grande/20171122140738anaa.jpg",
                 Quote: "All that a dream needs to be fulfilled is someone who believes that it can be realized.",
                 Age: 24,
@@ -22,7 +22,7 @@ angular.module("angular", [])
                 ],
                 Goals: ["Increase your level of autonomy.", "Graduate in law.", "Get married on the beach.", "Be a mother"],
                 Frustrations: ["Not being able to do some activities on your own", "Lack of accessibility in public places as well as in private places.", "Lack of accessibility on the web and in applications.",],
-                Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+                Bio: "Daniela is blind from birth, she loves to study and travel with her family. She always had difficulty with places inaccessible to blind people and she is just an ordinary person who would like to have good experiences just like everyone else.",
                 Motivations: [
                     {Name: "Incentive", Value: 80},
                     {Name: "Fear", Value: 50},
